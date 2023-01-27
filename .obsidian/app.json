@@ -1,1 +1,12 @@
-{}
+{
+  "showFrontmatter": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "assets",
+  "showInlineTitle": false,
+  "readableLineLength": true
+}

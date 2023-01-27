@@ -1,3 +1,5 @@
+# [[JavaScript]]
+
 # JS Cheatsheet
 ## Basics 👾
 HTML5 link to external JS file

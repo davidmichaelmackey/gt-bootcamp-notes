@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "046183cb592a4836",
+        "id": "73221191679ea5b5",
         "type": "tabs",
         "children": [
           {
-            "id": "8e18403ebb76856e",
+            "id": "03e060919ccd7ed6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "27e0bdc82cfc7254",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JavaScript.md"
+              }
             }
           }
         ]
@@ -138,6 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e18403ebb76856e",
-  "lastOpenFiles": []
+  "active": "9e6d7e17a686e15a",
+  "lastOpenFiles": [
+    "SQL.md",
+    "README.md",
+    "JavaScript.md",
+    "HTML.md",
+    "Git.md",
+    "CSS.md",
+    "Pasted image 20230120231152.png.md"
+  ]
 }

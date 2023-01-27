@@ -1,3 +1,9 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "system",
+  "cssTheme": "Obsidianite",
+  "enabledCssSnippets": [],
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "translucency": true,
+  "baseFontSize": 18
 }

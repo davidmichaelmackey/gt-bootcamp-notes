@@ -1,3 +1,5 @@
+# [[CSS]]
+
 # CSS Cheatsheet
 ## Basics
 Syntax
@@ -39,7 +41,6 @@ Box Model
 ```css
 margin>border>padding>content
 ```
-![[Pasted image 20230120231152.png]]
 
 ## Selectors
 Selectors

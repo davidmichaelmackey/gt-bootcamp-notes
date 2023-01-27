@@ -1,1 +1,3 @@
-[[Glossary/Git]]
+# [[Git]]
+
+# Git Cheatsheet

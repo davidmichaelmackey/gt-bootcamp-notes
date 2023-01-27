@@ -1,1 +1,13 @@
-{}
+{
+  "workspace:close-window": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "editor:delete-paragraph": []
+}
